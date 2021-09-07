@@ -1,4 +1,4 @@
-## Olá sou Vitor Hugo
+## Olá! Sou o Vitor Hugo
 
  <div>
   <a href="https://github.com/rafaballerini">
